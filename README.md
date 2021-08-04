@@ -58,4 +58,4 @@
 	
 
 
-<h2 align="center"> Leave a ⭐️ in some Open Source repo! <h2/>
+<h2 align="center"> Give a ⭐️ if this project helped you! <h2/>

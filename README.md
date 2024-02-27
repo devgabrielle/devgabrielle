@@ -1,27 +1,18 @@
-<h1 align="center"> Hi 👋  i'm <a href="https://github.com/devgabrielle/">Gabrielle Soares </a> </h1>
+# Gabrielle Soares
 
-<p align="center"> A mobile and web developer from Rio de Janeiro, Brazil. <p/>
-
-<h3 align="center"> 🚀 How to reach me:
-<h3/>
-<p align="center"> 
-<a href="https://www.linkedin.com/in/devgabrielle/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
-  </a>
-&nbsp;&nbsp;
-<a href="mailto:gabriellesoares.pc@gmail.com">
-	<img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;">
-&nbsp;&nbsp;	
-<p/>
+ A mobile and web developer from Rio de Janeiro, Brazil. 
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabrielle%20Soares-aa132d?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devgabrielle/)](https://www.linkedin.com/in/devgabrielle/) 
+[![Gmail Badge](https://img.shields.io/badge/-gabriellesoares.pc@gmail.com-aa132d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriellesoares.pc@gmail.com)](mailto:gabriellesoares.pc@gmail.com)
 
 
-<p align="center">
 <img 
      src="https://media3.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 
-<h2 align="center"> 🧰 Languages, platforms and tools <h2/>
-<p align="center">
+<h2> 🧰 Languages, platforms and tools <h2/>
+
+<p >
 <img 
      src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=32264D" />
 <img 
@@ -35,7 +26,7 @@
 <img 
      src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo" />
 
-<p align="center">
+<p >
 <img
      src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img
@@ -53,6 +44,5 @@
 
 
 	
-
 
 <h2 align="center"> Give a ⭐️ if this project helped you! <h2/>

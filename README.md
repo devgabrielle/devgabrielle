@@ -2,7 +2,7 @@
 
 ## E aí, Nerds <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
 
-Gosto de criar coisas, sou uma pessoa bastante curiosa.
+Gosto de criar e consertar coisas, sou uma pessoa bastante curiosa.
 
 
 - 🔭 **Desenvolvedora Fullstack Junior/Pleno** com mais de 5 anos de experiência, com forte atuação em React e React Native, além de backend em Node.js.

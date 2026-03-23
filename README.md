@@ -7,7 +7,7 @@ Gosto de criar e consertar coisas, sou uma pessoa bastante curiosa.
 
 - 🔭 **Desenvolvedora Fullstack Junior/Pleno** com mais de 5 anos de experiência, com forte atuação em React e React Native, além de backend em Node.js.
 Já trabalhei com arquitetura de aplicações, integração de APIs, autenticação, cloud e recentemente com soluções envolvendo IA e LLMs.
-Gosto de escrever código limpo, escalável e sempre alinhado ao produto.”;
+Gosto de escrever código limpo, escalável e sempre alinhado ao produto.;
 - 🌱 Sou formanda em **Engenharia de Software na UNIFATECIE**;
 - ⚡ Curiosidade sobre mim: Nas horas vagas quando não estou na garagem de casa sendo mecânica automotiva amadora, estou cantando;
 - 📫 Como chegar até mim: 
